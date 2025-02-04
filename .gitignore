@@ -1,3 +1,4 @@
 .env
 .cache
 autostock
+__pycache__
