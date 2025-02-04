@@ -1,9 +1,6 @@
 .env
 .cache
 autostock
-<<<<<<< HEAD
 __pycache__
-=======
 venvs
 my_app
->>>>>>> e38a83a4f71bdd43767d1ba8c2d36eef1a489dcf
